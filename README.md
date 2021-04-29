@@ -9,7 +9,7 @@ A React-Redux application which is a twitter clone. In which a user can : view t
 
 ### `npm install redux`
 
-### `npm install react-router`
+### `npm install react-router-dom`
 
 ### `npm install react-redux-loading`
 
